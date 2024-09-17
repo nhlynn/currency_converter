@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="exchange_rate">Exchange Rate</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="euro">Euro (EUR)</string>
+</resources>
